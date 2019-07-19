@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    card_view:cardCornerRadius="4dp"
+    android:layout_margin="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="57dp">
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            android:gravity="center_vertical"
+            android:layout_below="@+id/txtPosition"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="12sp" />
+
+
+        <TextView
+            android:id="@+id/txtMoves"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/moves"
+            android:layout_marginRight="150dp"
+            android:textSize="12sp"
+            android:layout_marginEnd="100dp"
+            android:layout_alignBaseline="@+id/txtName"
+            android:layout_alignBottom="@+id/txtName"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/txtTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/time_taken"
+            android:textSize="12sp"
+            android:layout_alignBaseline="@+id/txtPosition"
+            android:layout_alignBottom="@+id/txtPosition"
+            android:layout_alignStart="@+id/txtMoves" />
+
+        <TextView
+            android:id="@+id/txtPosition"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="@string/position"
+            android:gravity="center_vertical"
+            android:textSize="15sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/txtName" />
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.regson.netwalkgame.HowToPlayActivity">
+
+    <ImageView
+        android:contentDescription="@string/completed_game_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/pcleft"
+        android:layout_alignTop="@+id/imageView3"
+        android:layout_toEndOf="@+id/imageView3" />
+
+    <TextView
+        android:text="@string/how_to_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtHowToPlayTitle"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_blue_dark" />
+
+    <ImageView
+        android:contentDescription="@string/completed_game_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/serverright"
+        android:layout_marginTop="77dp"
+        android:id="@+id/imageView"
+        android:layout_below="@+id/txtHowToPlay"
+        android:layout_toStartOf="@+id/imageView3" />
+
+    <ImageView
+        android:contentDescription="@string/completed_game_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ihori"
+        android:id="@+id/imageView3"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text='@string/how_to_play_message'
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtHowToPlay"
+        android:layout_marginTop="47dp"
+        android:layout_below="@+id/txtHowToPlayTitle"
+        android:layout_alignStart="@+id/imageView" />
+
+</RelativeLayout>

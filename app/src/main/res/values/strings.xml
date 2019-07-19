@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NetwalkGame</string>
+    <string name="new_game">New Game</string>
+    <string name="view_highscores">View Highscores</string>
+    <string name="how_to_play">How To Play!</string>
+    <string name="start_game">Start Game</string>
+    <string name="_3x3">3x3</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="time">Time:</string>
+    <string name="how_to_play_message">In the game of Netwalk, you are a network administrator, and someone has scrambled your network. Your job is to rotate all the pieces so that every computer is connected to the server by pipes and there are no lose ends in your network. Of course, the less work you need to do to complete your network the better, so Netwalk is scored by the number of clicks it takes you to rotate everything into place and by time if number of clicks are the same. You can select which mode you would like to play by using the slider and same for viewing in the high scores. Saving score is optional and can only be done if you click on OKin the winner dialog message. Good luck, have fun!</string>
+    <string name="select_grid_theme">Select grid theme:</string>
+    <string name="default_text_name">…</string>
+    <string name="player_name">Player name:</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="moves">Moves</string>
+    <string name="time_taken">Time taken:</string>
+    <string name="position">position</string>
+    <string name="please_enter_your_name">Please enter your name:</string>
+    <string name="completed_game_image">completed game image</string>
+    <string name="settings_image">Settings image</string>
+    <string name="netwalk">Netwalk</string>
+    <string name="i7469693">i7469693</string>
+    <string-array name="dropD">
+        <item>Dark</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
