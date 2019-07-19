@@ -17,18 +17,18 @@ The finalized apk can be downloaded (/app-release.apk) and installed onto any an
 
 ## Screenshots
 ### Main Menu
-<img src="https://i.imgur.com/zFHwEaR.png" width="70%"></img>
+<img src="https://i.imgur.com/zFHwEaR.png" width="60%"></img>
 ### How to play
-<img src="https://i.imgur.com/mGrkXf3.png" width="70%"></img>
+<img src="https://i.imgur.com/mGrkXf3.png" width="60%"></img>
 ### Game preferences 
-<img src="https://i.imgur.com/TvNbTOa.png" width="70%"></img>
+<img src="https://i.imgur.com/TvNbTOa.png" width="60%"></img>
 ### Grid Size Selection
-<img src="https://i.imgur.com/PV4DDz7.png" width="70%"></img>
+<img src="https://i.imgur.com/PV4DDz7.png" width="60%"></img>
 ### Game Screen
-<img src="https://i.imgur.com/qG9NXVW.png" width="70%"></img>
+<img src="https://i.imgur.com/qG9NXVW.png" width="60%"></img>
 ### Win Screen
-<img src="https://i.imgur.com/PZqNFf7.png" width="70%"></img>
+<img src="https://i.imgur.com/PZqNFf7.png" width="60%"></img>
 ### 5x5 Leaderboard
-<img src="https://i.imgur.com/9nncfd7.png" width="70%"></img>
+<img src="https://i.imgur.com/9nncfd7.png" width="60%"></img>
 ### 4x4 Leaderboard
-<img src="https://i.imgur.com/wyUW3vX.png" width="70%"></img>
+<img src="https://i.imgur.com/wyUW3vX.png" width="60%"></img>
