@@ -5,7 +5,7 @@ The finalized apk can be downloaded (/app-release.apk) and installed onto any an
 
 ## Features
 - Change size of grid.
-- Store time record in local database.
+- Store time record in local SQLite database.
 - Change oritation (landscape & portrait).
 - Change color of the grid.
 - Indepentent leaderboard for each grid size.
